@@ -9,8 +9,9 @@ The primary objective of this project is to consolidate and clean a relational d
 # Workflow Architecture
 
 ## 1. The Dataset
+Olist Brazilian E-Commerce dataset (Kaggle), consisting of 8 relational tables
 
-## 2. Data Cleaning & Preprocessing
+## 2. Data Cleaning & Preprocessing (https://github.com/ceresagiada/Olist-customer-satisfaction-prediction/edit/main/README.md#:~:text=1_Preprocessing.ipynb)
 
 ## 3. Predictive Analysis & Modeling
 
