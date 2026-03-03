@@ -11,7 +11,7 @@ The primary objective of this project is to consolidate and clean a relational d
 ## 1. The Dataset
 Olist Brazilian E-Commerce dataset (Kaggle), consisting of 8 relational tables
 
-## 2. Data Cleaning & Preprocessing [Preprocessing script](Olist - 1_Preprocessing.ipynb)
+## 2. Data Cleaning & Preprocessing [View the Data preprocessing Notebook](Olist%20-%201_Preprocessing.ipynb)
 
 
 ## 3. Predictive Analysis & Modeling
