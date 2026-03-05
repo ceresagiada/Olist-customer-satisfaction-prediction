@@ -107,7 +107,7 @@ Beyond cleaning, the following features were engineered for modeling:
 
 #### Models Trained & Compared
 
-- **Train/test split**: 80/20 with stratification and fixed random state (42) for reproducibility.
+**Train/test split**: 80/20 with stratification and fixed random state (42) for reproducibility.
 
 Four classification models were built and evaluated:
 
