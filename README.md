@@ -9,7 +9,7 @@ The primary objective of this project is to consolidate and clean a relational d
 # Workflow Architecture
 
 ## 1. The Dataset
-Olist Brazilian E-Commerce dataset ([Kaggle] (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)), consisting of 9 relational tables, of which 8 were used for this analysis, for a total of 46 columns and ~100k entries.
+Olist Brazilian E-Commerce dataset ([Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)), consisting of 9 relational tables, of which 8 were used for this analysis, for a total of 46 columns and ~100k entries.
 
 ## 2. Data Cleaning & Preprocessing 
 
