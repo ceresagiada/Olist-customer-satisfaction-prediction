@@ -131,7 +131,7 @@ An interactive Power BI dashboard was built on the consolidated cleaned dataset 
 [View the Dashboard as pdf](Olist%20-%204_Dashboard.pdf)
 
 **Key KPIs displayed:**
-- **98K** Total Orders | **R$ 16M** Total Revenue | **R$ 13M** Total Profit | **17.31** Average Delivery Days | **4.10** Average Review Score
+**98K** Total Orders | **R$ 16M** Total Revenue | **R$ 13M** Total Profit | **17.31** Average Delivery Days | **4.10** Average Review Score
 
 **Visualizations included:**
 - Average Review Score vs. Delivery Time (days) — clear negative correlation
